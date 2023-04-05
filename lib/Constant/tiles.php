@@ -2,8 +2,8 @@
 
 namespace Constant;
 
-class tiles {
-    public $tiles = [
+class Tiles {
+    const TILES = [
         // 萬子
         '一萬' => ['kind' => 'character', 'value' => 1],
         '二萬' => ['kind' => 'character', 'value' => 2],
